@@ -1,0 +1,37 @@
+h1 {
+	color: pink
+	;
+}
+table {
+	color:rgb(244,194,194) ;
+}
+h2{color:rgb(204,204,255);}
+
+h1{
+	font size:20pt;
+}
+
+.firsth1{
+	font-family:"Times New Roman",Times, serif;
+}
+body{background-image: url("http://farm7.staticflickr.com/6020/6014754222_847df6311f_o.jpg");
+background-repeat:no-repeat;
+}
+<h3>{
+	font-size: 100px;
+}
+
+.snsd{
+	font-family: "times new roman", times, serif;
+}
+
+<p style="font-weight:normal;color:#F6D1FF;
+border: 7px solid #B8FDFF;
+letter-spacing:1pt;
+word-spacing:2pt;
+font-size:12px;
+text-align:left;
+font-family:arial, helvetica, sans-serif;
+line-height:1;"
+</p>
+
